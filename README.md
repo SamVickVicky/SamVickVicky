@@ -31,6 +31,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ### 📊 Featured Projects
@@ -87,4 +89,4 @@
 ---
 ⭐️ **If you find my work interesting, don't forget to star my repositories!**
 
-📊 **Profile Views:** [Profile Views](https://vijaysda.unaux.com/?i=1)
+📊 **Profile Views:** ![Profile Views](https://vijaysda.unaux.com/?i=1)
