@@ -62,8 +62,10 @@
 - 👥 **Led teams of 20+ members** with data-driven coaching techniques
 
 ### 📈 GitHub Stats
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamVickVicky&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamVickVicky&layout=compact&theme=radical)
+
+
 
 ### 🎯 What I'm Working On
 - 🔬 Advanced Machine Learning models for predictive analytics
