@@ -86,4 +86,4 @@
 ---
 ⭐️ **If you find my work interesting, don't forget to star my repositories!**
 
-📊 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+📊 **Profile Views:** ![Profile Views](https://vijaysda.unaux.com/?i=1)
